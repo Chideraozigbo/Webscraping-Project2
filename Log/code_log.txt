@@ -1,0 +1,40 @@
+2024-01-25 05:09:54 : Data extraction complete. Initiating Transformation process
+2024-01-25 05:10:27 : Data extraction complete. Initiating Transformation process
+2024-01-25 07:58:23 : Data extraction complete. Initiating Transformation process
+2024-01-25 08:09:34 : Data extraction complete. Initiating Transformation process
+2024-01-25 08:12:12 : Data extraction complete. Initiating Transformation process
+2024-01-25 08:13:04 : Data extraction complete. Initiating Transformation process
+2024-01-25 08:38:47 : Data extraction complete. Initiating Transformation process
+2024-01-25 08:40:42 : Data extraction complete. Initiating Transformation process
+2024-01-25 08:40:42 : Data transformation complete. Initiating Loading process
+2024-01-25 08:40:42 : Data saved to CSV file
+2024-01-25 08:51:28 : Data extraction complete. Initiating Transformation process
+2024-01-25 08:51:28 : Data transformation complete. Initiating Loading process
+2024-01-25 08:51:28 : Data saved to CSV file
+2024-01-25 08:51:28 : Data loaded to Database as a table, Executing queries
+2024-01-25 08:54:45 : Data extraction complete. Initiating Transformation process
+2024-01-25 08:54:45 : Data transformation complete. Initiating Loading process
+2024-01-25 08:54:45 : Data saved to CSV file
+2024-01-25 08:54:45 : Data loaded to Database as a table, Executing queries
+2024-01-25 08:54:45 : Process Complete
+2024-01-25 09:00:31 : Data extraction complete. Initiating Transformation process
+2024-01-25 09:00:31 : Data transformation complete. Initiating Loading process
+2024-01-25 09:00:31 : Data saved to CSV file
+2024-01-25 09:00:31 : Data loaded to Database as a table, Executing queries
+2024-01-25 09:00:31 : Print only the names of the top 5 banks
+2024-01-25 09:00:31 : Print only the names of the top 5 banks
+2024-01-25 09:00:31 : Print only the names of the top 5 banks
+2024-01-25 09:02:44 : Data extraction complete. Initiating Transformation process
+2024-01-25 09:02:44 : Data transformation complete. Initiating Loading process
+2024-01-25 09:02:44 : Data saved to CSV file
+2024-01-25 09:02:44 : Data loaded to Database as a table, Executing queries
+2024-01-25 09:02:44 : Print the contents of the entire table
+2024-01-25 09:02:44 : Print the average market capitalization of all the banks in Billion USD
+2024-01-25 09:02:44 : Print only the names of the top 5 banks
+2024-01-25 09:04:53 : Data extraction complete. Initiating Transformation process
+2024-01-25 09:04:53 : Data transformation complete. Initiating Loading process
+2024-01-25 09:04:53 : Data saved to CSV file
+2024-01-25 09:04:54 : Data loaded to Database as a table, Executing queries
+2024-01-25 09:04:54 : Print the contents of the entire table
+2024-01-25 09:04:54 : Print the average market capitalization of all the banks in Billion USD
+2024-01-25 09:04:54 : Print only the names of the top 5 banks
